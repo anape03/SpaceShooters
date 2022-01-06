@@ -1,0 +1,7 @@
+.vs/
+*.sln
+Asteroids/x64
+*.pdb
+*.tmp
+*.obj
+*.ilk
