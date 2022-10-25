@@ -1,11 +1,11 @@
 # Asteroids game
-A version of the game Asteroids using C++, made as a university assignment (3rd semester).
+A version of the game Asteroids using C++, made as a university assignment for the lesson "Computer Programming in C++" (3rd semester) at AUEB.
 
 ## Description
 
 The goal was to create our version of a classic arcade game using [Simple Graphics Library](https://github.com/cgaueb/sgg) (SGG), created for this course.
 
-It was also required to to use 
+It was also required to use 
 * Dynamic memory allocation
 * Inheritance and polymorphism
 * Containers
